@@ -1,0 +1,98 @@
+Enter your choice :
+1.Display room details
+2.Display room availability 
+3.Book
+4.Order food
+5.Checkout
+6.Exit
+
+3
+
+Choose room type :
+1.Luxury Double Room 
+2.Deluxe Double Room 
+3.Luxury Single Room
+4.Deluxe Single Room
+
+1
+
+Choose room number from : 
+1,2,3,4,5,6,7,8,9,10,
+Enter room number: 10
+
+Enter customer name: SEETHA
+Enter contact number: 7638
+Enter gender: F
+Enter second customer name: RAM
+Enter contact number: 764
+Enter gender: M
+Room Booked
+
+Continue : (y/n)
+Y
+
+Enter your choice :
+1.Display room details
+2.Display room availability 
+3.Book
+4.Order food
+5.Checkout
+6.Exit
+
+4
+Room Number -10
+
+==========
+   Menu:  
+==========
+
+1.Sandwich	Rs.50
+2.Pasta		Rs.60
+3.Noodles	Rs.70
+4.Coke		Rs.30
+
+1
+Quantity- 2
+Do you want to order anything else ? (y/n)
+Y
+
+1
+Quantity- 2
+Do you want to order anything else ? (y/n)
+N
+
+Continue : (y/n)
+Y
+
+Enter your choice :
+1.Display room details
+2.Display room availability 
+3.Book
+4.Order food
+5.Checkout
+6.Exit
+
+5
+Room Number -10
+Room used by SEETHA
+Do you want to checkout ?(y/n)
+Y
+
+*******
+ Bill:-
+*******
+
+Room Charge - 4000
+
+===============
+Food Charges:- 
+===============
+Item   Quantity    Price
+-------------------------
+Sandwich  2         100.0     
+Sandwich  2         100.0     
+
+Total Amount- 4200.0
+Deallocated succesfully
+
+Continue : (y/n)
